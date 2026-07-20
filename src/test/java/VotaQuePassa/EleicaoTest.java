@@ -7,8 +7,26 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class EleicaoTest {
 
+    Eleicao eleicaoAutarquica;
+    Eleicao eleicaoAssociacaoEstudantes;
+
+    Candidato candidato1;
+    Candidato candidato2;
+    Candidato candidato3;
+    Candidato candidato4;
+
+    Candidato
+
+
     @BeforeEach
     void setUp() {
+
+// **** FAZER TESTS PARA OS GETTERS TODOS DO PROJETO! *****
+// 1º Adicionar Eleição | 2º Adicionar Candidatos | 3º Adicionar Eleitores | 4º Adicionar Votos
+
+    Candidato can
+
+
     }
 
     @Test
